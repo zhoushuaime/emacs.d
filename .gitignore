@@ -1,0 +1,3 @@
+.vscode/
+ # ignore emacs buffer file
+ [#]*[#]
