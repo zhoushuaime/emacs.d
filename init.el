@@ -28,3 +28,5 @@ highlight-parentheses-mode
         ()
         (highlight-parentheses-mode t)))
 (global-highlight-parentheses-mode t)
+;;auto revert mode
+(global-auto-revert-mode)
